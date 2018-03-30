@@ -164,6 +164,15 @@ using System.Data.OracleClient;
   
 ## EntityClient Provider  
  The EntityClient provider is used for accessing data based on an Entity Data Model (EDM). Unlike the other .NET Framework data providers, it does not interact directly with a data source. Instead, it uses Entity SQL to communicate with the underlying data provider. For more information, see [EntityClient and Entity SQL](http://msdn.microsoft.com/library/49202ab9-ac98-4b4b-a05c-140e422bf527).  
+ 
+## Devart dotConnect ADO.NET Data Providers
+
+The dotConnect product line from Devart presents both free and commercial ADO.NET data providers for relational databases (SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2) and cloud apps (Dynamics CRM, Salesforce, Quickbooks Online etc.). 
+
+For database sources dotConnect offers database-specific features, ORM support and support for Microsoft data oriented technologies.
+For cloud apps dotConnect offers local SQL engine, Entity Framework support and a Loader class for bulk data loading for the data source. 
+
+More info is available at https://www.devart.com/dotconnect/ 
   
 ## See Also  
  [ADO.NET Overview](../../../../docs/framework/data/adonet/ado-net-overview.md)  
